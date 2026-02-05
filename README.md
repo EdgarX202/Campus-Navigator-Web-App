@@ -1,4 +1,7 @@
 ## Edinburgh Napier University | Merchiston Campus web app
+
+[![Build](https://github.com/EdgarX202/Campus-Navigator-Web-App/actions/workflows/main.yml/badge.svg)](https://github.com/EdgarX202/Campus-Navigator-Web-App/actions/workflows/main.yml)
+
 > The goal of this group project module is to gain experience from working in a group of people with different skills, and to successfuly build our chosen project.
 * The team consists of 3 developers with a variety of skills (backend, frontend, full stack).
  
