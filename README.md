@@ -1,4 +1,4 @@
-## Edinburgh Napier University | Merchiston Campus web app
+## Edinburgh Napier University | Merchiston Campus Web App
 
 [![Build](https://github.com/EdgarX202/Campus-Navigator-Web-App/actions/workflows/main.yml/badge.svg)](https://github.com/EdgarX202/Campus-Navigator-Web-App/actions/workflows/main.yml)
 
