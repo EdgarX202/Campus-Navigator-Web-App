@@ -3,5 +3,4 @@ flask-mysqldb
 flask-cors
 networkx
 svgelements
-unittest
 
