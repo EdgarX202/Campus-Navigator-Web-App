@@ -1,29 +1,34 @@
-## Edinburgh Napier University | CampusGraph
+# CampusGraph 🗺️
 
 [![Build](https://github.com/EdgarX202/Campus-Navigator-Web-App/actions/workflows/main.yml/badge.svg)](https://github.com/EdgarX202/Campus-Navigator-Web-App/actions/workflows/main.yml)
 
-> The goal of this group project module is to gain experience from working in a group of people with different skills, and to successfuly build our chosen project.
-* The team consists of 3 developers with a variety of skills (backend, frontend, full stack).
- 
-#### Navigation Web App
-* This web app is specifically designed for Merchiston campus.
-* Campus floor maps have been converted into interactable files and used with the navigation feature.
-* The main feature is to find the shortest path from room A to room B.
-* The web app was created using Python and Flask web framework.
-* Also, a variety of frontend and backend libraries such as, React, MUI, NetworkX, svgelements.
+An interactive campus navigation web application designed for Edinburgh Napier University's Merchiston Campus, enabling users to find optimal shortest paths between rooms across complex floor plans.
 
-The team followed best practices, methodologies, and created a realistic work environment to simulate real life project development.<br>
-<br>
-This included: 
-1. Using collaboration tools such as Discord and Trello.
-2. Using project management tools such as Gant Chart.
-3. Version control, Git and Github repo.
-4. Arranging weekly meetings and achieving weekly deliverables.
-5. Using Agile project management. 
+---
 
-#### Timeframe: 1 month
+## 🚀 Key Features
+* **Shortest Path Routing:** Uses graph-based algorithms to calculate and render optimal routes from Room A to Room B.
+* **Interactive Floor Maps:** Converts static floor plan maps into interactive, vector-based SVG navigation interfaces.
+* **Multi-Floor Navigation:** Handles pathfinding transitions across different campus levels and building segments.
 
-The end result was a successfully built and delivered prototype of a campus navigation website.<br>
+---
+
+## 🛠️ Tech Stack & Libraries
+* **Frontend:** React, Material UI (MUI), D3.js
+* **Backend:** Python, Flask, NetworkX, svgelements
+* **Database:** MySQL
 <br>
 <img src="https://github.com/EdgarX202/Campus-Navigator-Web-App/blob/main/navigation.gif" alt="Alt text" width=65% height=65%/>
+
+## 🔬 Academic Context
+<ul>
+ <li>
+  <strong>Institution:</strong> Edinburgh Napier University
+ </li>
+ <li><strong>Project Type:</strong>Group Software Engineering Project (Team of 3 Developers)</li>
+ <li>
+  <strong>Methodology:</strong> Agile development sprint over 1 month, utilizing Git version control, continuous integration, and weekly deliverables.
+ </li>
+</ul>
+<br>
 
