@@ -25,7 +25,7 @@ An interactive campus navigation web application designed for Edinburgh Napier U
  <li>
   <strong>Institution:</strong> Edinburgh Napier University
  </li>
- <li><strong>Project Type:</strong>Group Software Engineering Project (Team of 3 Developers)</li>
+ <li><strong>Project Type:</strong> Group Software Engineering Project (Team of 3 Developers)</li>
  <li>
   <strong>Methodology:</strong> Agile development sprint over 1 month, utilizing Git version control, continuous integration, and weekly deliverables.
  </li>
